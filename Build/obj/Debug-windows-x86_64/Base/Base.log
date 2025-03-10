@@ -1,0 +1,136 @@
+﻿  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:34:
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(783,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(783,49): warning : 'long long' is incompatible with C++98 [-Wc++98-compat-pedantic]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1148,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1149,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1150,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1151,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1152,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1153,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1154,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1155,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1156,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1158,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1158,76): warning : 'long long' is incompatible with C++98 [-Wc++98-compat-pedantic]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1159,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1159,76): warning : 'long long' is incompatible with C++98 [-Wc++98-compat-pedantic]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1166,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1167,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1167,49): warning : use of old-style cast [-Wold-style-cast]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,57): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1167,43): warning : use of old-style cast [-Wold-style-cast]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,57): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1167,59): warning : use of old-style cast [-Wold-style-cast]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,57): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1186,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:34:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h:1191:
+..\External\Libs\SDL3\include\SDL3/SDL_begin_code.h(371,9): warning : macro name is a reserved identifier [-Wreserved-macro-identifier]
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:34:
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(1308,4): warning : unknown command tag name [-Wdocumentation-unknown-command]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(3553,46): warning : 'long long' is incompatible with C++98 [-Wc++98-compat-pedantic]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(3581,56): warning : 'long long' is incompatible with C++98 [-Wc++98-compat-pedantic]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(3729,21): warning : 'long long' is incompatible with C++98 [-Wc++98-compat-pedantic]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(3763,30): warning : 'long long' is incompatible with C++98 [-Wc++98-compat-pedantic]
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:38:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL_audio.h:132:
+..\External\Libs\SDL3\include\SDL3/SDL_endian.h(51,9): warning : macro name is a reserved identifier [-Wreserved-macro-identifier]
+..\External\Libs\SDL3\include\SDL3/SDL_endian.h(53,1): warning : identifier '_m_prefetch' is reserved because it starts with '_' at global scope [-Wreserved-identifier]
+..\External\Libs\SDL3\include\SDL3/SDL_endian.h(53,19): warning : identifier '__P' is reserved because it starts with '__' [-Wreserved-identifier]
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:38:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL_audio.h:134:
+..\External\Libs\SDL3\include\SDL3/SDL_mutex.h(67,9): warning : macro name is a reserved identifier [-Wreserved-macro-identifier]
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:38:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL_audio.h:136:
+..\External\Libs\SDL3\include\SDL3/SDL_iostream.h(168,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:39:
+..\External\Libs\SDL3\include\SDL3/SDL_bits.h(84,16): warning : use of old-style cast [-Wold-style-cast]
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:41:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL_camera.h:75:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL_surface.h:48:
+..\External\Libs\SDL3\include\SDL3/SDL_rect.h(128,16): warning : use of old-style cast [-Wold-style-cast]
+..\External\Libs\SDL3\include\SDL3/SDL_rect.h(129,16): warning : use of old-style cast [-Wold-style-cast]
+..\External\Libs\SDL3\include\SDL3/SDL_rect.h(130,16): warning : use of old-style cast [-Wold-style-cast]
+..\External\Libs\SDL3\include\SDL3/SDL_rect.h(131,16): warning : use of old-style cast [-Wold-style-cast]
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:47:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL_events.h:59:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL_gamepad.h:81:
+..\External\Libs\SDL3\include\SDL3/SDL_joystick.h(461,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:47:
+..\External\Libs\SDL3\include\SDL3/SDL_events.h(1044,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:47:
+..\External\Libs\SDL3\include\SDL3/SDL_events.h(1044,65): warning : use of old-style cast [-Wold-style-cast]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,57): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+  In file included from src\Base\Base.cpp:1:
+  In file included from ..\External\Libs\SDL3\include\SDL3/SDL.h:78:
+..\External\Libs\SDL3\include\SDL3/SDL_storage.h(319,1): warning : 'static_assert' declarations are incompatible with C++98 [-Wc++98-compat]
+..\External\Libs\SDL3\include\SDL3/SDL_stdinc.h(198,43): message : expanded from macro 'SDL_COMPILE_TIME_ASSERT'
+src\Base\Base.cpp(7,26): warning : 'nullptr' is incompatible with C++98 [-Wc++98-compat]
+src\Base\Base.cpp(8,30): warning : 'nullptr' is incompatible with C++98 [-Wc++98-compat]
+src\Base\Base.cpp(20,59): warning : implicit conversion changes signedness: 'uint32_t' (aka 'unsigned int') to 'int' [-Wsign-conversion]
+src\Base\Base.cpp(20,52): warning : implicit conversion changes signedness: 'uint32_t' (aka 'unsigned int') to 'int' [-Wsign-conversion]
+src\Base\Base.cpp(26,118): warning : implicit conversion changes signedness: 'uint32_t' (aka 'unsigned int') to 'int' [-Wsign-conversion]
+src\Base\Base.cpp(26,111): warning : implicit conversion changes signedness: 'uint32_t' (aka 'unsigned int') to 'int' [-Wsign-conversion]
+src\Base\Base.cpp(27,20): warning : 'nullptr' is incompatible with C++98 [-Wc++98-compat]
+src\Base\Base.cpp(31,34): warning : implicit conversion changes signedness: 'uint32_t' (aka 'unsigned int') to 'const int' [-Wsign-conversion]
+src\Base\Base.cpp(32,37): warning : implicit conversion changes signedness: 'const int' to 'unsigned long long' [-Wsign-conversion]
+src\Base\Base.cpp(40,48): warning : implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
+src\Base\Base.cpp(43,57): warning : implicit conversion changes signedness: 'uint32_t' (aka 'unsigned int') to 'int' [-Wsign-conversion]
+src\Base\Base.cpp(43,50): warning : implicit conversion changes signedness: 'uint32_t' (aka 'unsigned int') to 'int' [-Wsign-conversion]
+src\Base\Base.cpp(45,20): warning : 'nullptr' is incompatible with C++98 [-Wc++98-compat]
+src\Base\Base.cpp(45,42): warning : 'nullptr' is incompatible with C++98 [-Wc++98-compat]
+src\Base\Base.cpp(46,36): warning : 'nullptr' is incompatible with C++98 [-Wc++98-compat]
+src\Base\Base.cpp(75,50): warning : 'nullptr' is incompatible with C++98 [-Wc++98-compat]
+src\Base\Base.cpp(75,59): warning : 'nullptr' is incompatible with C++98 [-Wc++98-compat]
+src\Base\Base.cpp(6,14): warning : unused parameter 'argc' [-Wunused-parameter]
+src\Base\Base.cpp(6,26): warning : unused parameter 'argv' [-Wunused-parameter]
+src\Base\Base.cpp(15,34): warning : result of comparison of constant 0 with expression of type 'bool' is always false [-Wtautological-constant-compare]
+src\Base\Base.cpp(20,90): warning : result of comparison of constant 0 with expression of type 'bool' is always false [-Wtautological-constant-compare]
+src\Base\Base.cpp(40,9): warning : unsafe buffer access [-Wunsafe-buffer-usage]
+src\Base\Base.cpp(40,9): message : pass -fsafe-buffer-usage-suggestions to receive code hardening suggestions
+lld-link : error : undefined symbol: __declspec(dllimport) _CrtDbgReport
+  >>> referenced by C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory:190
+  >>>               ..\Build\obj\Debug-windows-x86_64\Base\Base.obj:(void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64))
+  >>> referenced by C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory:209
+  >>>               ..\Build\obj\Debug-windows-x86_64\Base\Base.obj:(void __cdecl std::_Adjust_manually_vector_aligned(void *&, unsigned __int64 &))
+  >>> referenced by C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory:219
+  >>>               ..\Build\obj\Debug-windows-x86_64\Base\Base.obj:(void __cdecl std::_Adjust_manually_vector_aligned(void *&, unsigned __int64 &))
+  >>> referenced 1 more times
+  
+lld-link : error : undefined symbol: __declspec(dllimport) _invalid_parameter
+  >>> referenced by C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory:190
+  >>>               ..\Build\obj\Debug-windows-x86_64\Base\Base.obj:(void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64))
+  >>> referenced by C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory:209
+  >>>               ..\Build\obj\Debug-windows-x86_64\Base\Base.obj:(void __cdecl std::_Adjust_manually_vector_aligned(void *&, unsigned __int64 &))
+  >>> referenced by C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory:219
+  >>>               ..\Build\obj\Debug-windows-x86_64\Base\Base.obj:(void __cdecl std::_Adjust_manually_vector_aligned(void *&, unsigned __int64 &))
+  >>> referenced 1 more times
